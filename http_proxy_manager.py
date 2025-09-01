@@ -319,3 +319,4 @@ if __name__ == "__main__":
                 print("Usage: tracert <host> <max_hops>")
         else:
             print("Invalid command. Type 'start proxy', 'stop proxy', 'load blocked urls', 'clear blocked urls', 'clear cache', 'print cache', or 'tracert <host> <max_hops>'.")
+

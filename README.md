@@ -1,8 +1,3 @@
-Got it — thank you for clarifying. You wanted the **command usage list** (with descriptions like `start proxy  # Launch the proxy server`) to be included directly in the **README’s "Usage" section**, not separately under a "Commands" section.
-
-Here is the corrected `README.md` with that **usage block fully included in the "Usage > CLI Version" section**, exactly as you described:
-
----
 
 ````markdown
 # Python-based HTTP Proxy
@@ -103,11 +98,6 @@ python smart_proxy_gui.py
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## Acknowledgments
 
@@ -116,8 +106,3 @@ Inspired by educational projects that explore networking, proxy behavior, and ca
 ```
 
 ---
-
-This version includes exactly the block you wanted **inside the "Usage > CLI Version" section** — not in a separate "Commands" table.
-
-Let me know if you’d like this saved as a downloadable `README.md` file.
-```

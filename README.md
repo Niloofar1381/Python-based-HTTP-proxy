@@ -1,4 +1,3 @@
-````markdown
 # Python-based HTTP Proxy
 
 A Python-based HTTP proxy that forwards, caches, and blocks HTTP requests using socket programming. It offers both a CLI version and a GUI version (Tkinter), each with their own command/control interface.
@@ -51,7 +50,6 @@ cd Python-based-HTTP-proxy
 
 No additional dependencies are needed—everything runs using the Python standard library.
 
----
 
 ## Usage
 
